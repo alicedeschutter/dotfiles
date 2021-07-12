@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alice@mailfence.com
+	name = Alice De Schutter
